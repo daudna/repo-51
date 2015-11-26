@@ -8,5 +8,5 @@ package exercise5;
  *
  */
 public class Caeser {
-
+int i =0;
 }
